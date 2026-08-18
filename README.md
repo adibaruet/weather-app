@@ -37,7 +37,7 @@ python3 -m http.server 8000
 
 Then open:
 
-**[http://localhost:8000*](https://adibaruet.github.io/weather-app/)*
+*[http://localhost:8000*](https://adibaruet.github.io/weather-app/)*
 
 A local server is recommended instead of opening `index.html` directly because browsers restrict API requests made from `file://` URLs.
 
